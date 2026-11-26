@@ -28,10 +28,19 @@
   <img src="https://img.shields.io/badge/Arnold-2E2E2E?style=for-the-badge&logoColor=white" />
 </p>
 
+### Adobe
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logoColor=white" />
+</p>
+
 ### Code
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VEX-FF4713?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
