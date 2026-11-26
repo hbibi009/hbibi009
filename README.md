@@ -5,7 +5,7 @@
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2A7FFF&center=true&vCenter=true&width=520&lines=Learning+Houdini+FX+every+day;Creatures+%C2%B7+Characters+%C2%B7+Simulations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2A7FFF&center=true&vCenter=true&width=520&lines=Learning+Houdini+FX;Creatures+%C2%B7+Characters+%C2%B7+Simulations" />
 </p>
 
 ---
