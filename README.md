@@ -8,20 +8,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2A7FFF&center=true&vCenter=true&width=520&lines=%E2%9C%A6+Learning+Houdini+FX+every+day+%E2%9C%A6;%CB%9A+Creatures+%C2%B7+Characters+%C2%B7+Simulations+%CB%9A" />
 </p>
 
-<p align="center">˚ ✦ ⋆ ˚ ✧ ˚ ⋆ ✦ ˚ ✧ ˚ ⋆ ✦ ˚</p>
+<p align="center">｡.✩ ⊹ 。 ˚₊‧ ⋆✴˚｡⋆ ‧₊˚ 。⊹ ✩.｡</p>
 
-## ✦ About Me ˚⋆
+<h2 align="center">₊˚⊹⋆ About Me ⋆⊹˚₊</h2>
 
-✧ University student in Korea <sub>한국에서 공부하는 대학생</sub><br>
-✧ Aspiring **FX Artist** <sub>FX 아티스트 지망생</sub><br>
-✧ Studying programming <sub>프로그래밍 공부 중</sub>
+<p align="center">
+  ༚✧˳⁺ University student in Korea <sub>한국에서 공부하는 대학생</sub> ⁺˳✧༚<br>
+  ˚₊✩‧₊ Aspiring <b>FX Artist</b> <sub>FX 아티스트 지망생</sub> ₊‧✩₊˚<br>
+  ⋆｡°✩ Studying programming <sub>프로그래밍 공부 중</sub> ✩°｡⋆
+</p>
 
-<p align="center">˚ ✦ ⋆ ˚ ✧ ˚ ⋆ ✦ ˚ ✧ ˚ ⋆ ✦ ˚</p>
+<p align="center">˚₊‧꒰ა ✧ ໒꒱ ‧₊˚ ⋆ ˚｡⋆୨୧˚ ⋆ ˚₊‧꒰ა ✧ ໒꒱ ‧₊˚</p>
 
-## ✦ Tools ˚⋆
+<h2 align="center">⋆✴˚｡⋆ Tools ⋆｡˚✴⋆</h2>
 
-#### ⋆ 3D / FX
-<p>
+<p align="center"><b>˚₊✩ 3D / FX ✩₊˚</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
   <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
@@ -31,38 +33,40 @@
   <img src="https://img.shields.io/badge/Arnold-2E2E2E?style=for-the-badge&logoColor=white" />
 </p>
 
-#### ⋆ 2D / Editing
-<p>
+<p align="center"><b>⊹ ࣪ ˖ 2D / Editing ˖ ࣪ ⊹</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-2D2D2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logoColor=white" />
 </p>
 
-#### ⋆ Code
-<p>
+<p align="center"><b>｡ﾟ✧ Code ✧ﾟ｡</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VEX-FF4713?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<p align="center">˚ ✦ ⋆ ˚ ✧ ˚ ⋆ ✦ ˚ ✧ ˚ ⋆ ✦ ˚</p>
+<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ✦ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-## ✦ GitHub Stats ˚⋆
+<h2 align="center">༚✧˳⁺ GitHub Stats ⁺˳✧༚</h2>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hbibi009&show_icons=true&theme=default&title_color=2a5298&icon_color=4facfe&text_color=1e3c72&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbibi009&layout=compact&theme=default&title_color=2a5298&icon_color=4facfe&text_color=1e3c72&hide_border=true" />
 </p>
 
-<p align="center">˚ ✦ ⋆ ˚ ✧ ˚ ⋆ ✦ ˚ ✧ ˚ ⋆ ✦ ˚</p>
+<p align="center">｡.✩ ⊹ 。 ˚₊‧ ⋆✴˚｡⋆ ‧₊˚ 。⊹ ✩.｡</p>
 
-## ✦ Contact ˚⋆
+<h2 align="center">˚₊‧✉︎‧₊˚ Contact ˚₊‧✉︎‧₊˚</h2>
 
-<p>
+<p align="center">
   <a href="mailto:hanbibi009@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
+<p align="center">✧˖°. thanks for visiting .°˖✧</p>
 
 <!-- 하단 배너 -->
 <p align="center">
