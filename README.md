@@ -12,8 +12,9 @@
 
 ## 🌫️ About Me
 
-- 🎬 **FX 아티스트** 지망생
-- 💻 프로그래밍 공부 중!
+- 🇰🇷 University student in Korea <sub>한국에서 공부하는 대학생</sub>
+- 🎬 Aspiring **FX Artist** <sub>FX 아티스트 지망생</sub>
+- 💻 Studying programming <sub>프로그래밍 공부 중</sub>
 
 ---
 
@@ -24,13 +25,15 @@
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" />
   <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ZBrush-1B1B1B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substance%20Painter-C4122E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Arnold-2E2E2E?style=for-the-badge&logoColor=white" />
 </p>
 
-### Adobe
+### 2D / Editing
 <p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-2D2D2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logoColor=white" />
 </p>
