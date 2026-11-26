@@ -12,13 +12,13 @@
 
 ## ₊˚⊹⋆ About Me ⋆⊹˚₊
 
-- 🇰🇷 University student in Korea <sub>한국에서 공부하는 대학생</sub>
-- 🎬 Aspiring **FX Artist** <sub>FX 아티스트 지망생</sub>
-- 💻 Studying programming <sub>프로그래밍 공부 중</sub>
+✧ University student in Korea <sub>한국에서 공부하는 대학생</sub><br>
+✧ Aspiring **FX Artist** <sub>FX 아티스트 지망생</sub><br>
+✧ Studying programming <sub>프로그래밍 공부 중</sub>
 
 ---
 
-## ⋆✴˚｡⋆ Tools ⋆｡˚✴⋆
+## ⋆✦˚｡⋆ Tools ⋆｡˚✦⋆
 
 ### 3D / FX
 <p>
