@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=220&section=header&text=Hi,%20I'm%20hbibi009&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FX%20Artist%20in%20Progress%20%E2%9C%A6%20Houdini%20%C2%B7%20Maya%20%C2%B7%20ZBrush&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=220&section=header&text=Hi,%20I'm%20hanbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FX%20Artist%20in%20Progress%20%E2%9C%A6%20Houdini%20%C2%B7%20Maya%20%C2%B7%20ZBrush&descAlignY=58&descSize=18" />
 </p>
 
 <!-- 타이핑 애니메이션 -->
